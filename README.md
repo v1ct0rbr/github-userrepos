@@ -1,3 +1,7 @@
+# Screenshot
+
+![App Screenshot](https://github.com/v1ct0rbr/github-userrepos/blob/main/public/imagens_app/img01.png?raw=true)
+
 # Vite React Tailwind Shadcn
 
 Este é um kit inicial para projetos que utilizam Vite, React, Shadcn e Tailwind. Ele oferece uma configuração básica para começar a desenvolver rapidamente.
